@@ -59,7 +59,7 @@ A service enabling users to create a PC version of a website by simply dragging 
 *2023.05 - 2023.11 14th Trainee*
 
 #### [생애최초 청년창업 지원사업](https://www.kised.or.kr/menu.es?mid=a10205170000)
-*2021.08 - 2021.12 Cofounder*
+*2021.08 - 2021.12 Co-founder*
 
 - Graduated with top honors
 
