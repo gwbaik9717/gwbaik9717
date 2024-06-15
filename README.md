@@ -33,7 +33,7 @@ A service that provides price information and discounts for second-hand Apple pr
 
 A service enabling users to swiftly generate websites by auto-completing text and images
 
-- **Tech Stacks**: `Nuxt.js`, `TypeScript`
+- **Tech Stacks**: `Vue.js`, `TypeScript`
 - Reduced user dropout rate by 40% by shortening the funnel from sign-up to website publication
 - Combined generated text and images into design templates using BFS algorithm
 
@@ -42,9 +42,9 @@ A service enabling users to swiftly generate websites by auto-completing text an
 
 A service enabling users to create a PC version of a website by simply dragging and dropping HTML elements
 
-- **Tech Stacks**: `Nuxt.js`, `TypeScript`
+- **Tech Stacks**: `Vue.js`, `TypeScript`
 - Expanded the existing mobile website editor to support the PC versions of websites
-- Boosted the paid conversion rate by 10% through the expansion of the service to enterprise customers.
+- Boosted the paid conversion rate by 10% through the expansion of the service to enterprise customers
 
 ## 🎓 Education
 
