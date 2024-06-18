@@ -37,14 +37,6 @@ A service enabling users to swiftly generate websites by auto-completing text an
 - Reduced user dropout rate by 40% by shortening the funnel from sign-up to website publication
 - Combined generated text and images into design templates using BFS algorithm
 
-#### [Waveon PC Website Editor](https://www.waveon.io/)
-*2022.12 - 2023.01 Front-End Engineer*
-
-A service enabling users to create a PC version of a website by simply dragging and dropping HTML elements
-
-- **Tech Stacks**: `Vue.js`, `TypeScript`
-- Expanded the existing mobile website editor to support the PC versions of websites
-- Boosted the paid conversion rate by 10% through the expansion of the service to enterprise customers
 
 ## 🎓 Education
 
@@ -67,4 +59,4 @@ A service enabling users to create a PC version of a website by simply dragging 
 *2021.05 - 2021.09 Team Lead*
 
 - Won 2nd place in the 2021 학생 창업유망팀 300 페스티벌 모의투자대회
-- Participated in the 2021 산학협력 EXPO 학생창업 페스티벌 미니 데모데이 (broadcasted live on YouTube)
+- Participated in the 2021 산학협력 EXPO 학생창업 페스티벌 미니 데모데이
