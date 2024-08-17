@@ -53,10 +53,5 @@ A service enabling users to swiftly generate websites by auto-completing text an
 #### [생애최초 청년창업 지원사업](https://www.kised.or.kr/menu.es?mid=a10205170000)
 *2021.08 - 2021.12 Co-founder*
 
-- Graduated with top honors
-
 #### [2021 학생창업유망팀 300](http://www.u300.kr/)
 *2021.05 - 2021.09 Team Lead*
-
-- Won 2nd place in the 2021 학생 창업유망팀 300 페스티벌 모의투자대회
-- Participated in the 2021 산학협력 EXPO 학생창업 페스티벌 미니 데모데이
